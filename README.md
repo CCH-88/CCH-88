@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Casper Hofma</h1>
 <h3 align="center">I'm a Full-Stack Java Developer and always eager to learn</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
+<img align="right" alt="Coding" width="360" height="260" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 - 🔭 I’m currently working on [Lagalt (A web application)](https://github.com/CCH-88/lagalt-frontend)
 
