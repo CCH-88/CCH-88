@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Casper Hofma</h1>
-<h3 align="center">A Full-Stack Java Developer that is always eager to learn</h3>
+<h3 align="center">I'm a Full-Stack Java Developer and always eager to learn</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
