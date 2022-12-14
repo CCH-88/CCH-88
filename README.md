@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lagalt (A web application)](https://github.com/CCH-88/lagalt-frontend)
 
-- 🌱 I’m currently learning **React and Java Spring**
+- 🌱 I’m currently learning **Angular, React and Java Spring**
 
 - 👨‍💻 All of my projects are available at [https://cch-88.github.io/#](https://cch-88.github.io/#)
 
